@@ -208,6 +208,9 @@ CloudSync DNS 使用智能比对算法，考虑以下因素：
 
 - **DEBUG**：是否启用调试模式，可选值：`true` 或 `false`（默认）。启用后会输出更详细的日志信息。
 
+- ## 效果预览
+- 555.xiaoxing.us.kg
+
 ## 结论
 
 CloudSync DNS 是一个强大、灵活且用户友好的解决方案，用于在 Cloudflare 和 ClouDNS 之间同步 DNS 记录。它提供了全面的记录类型支持、多种同步选项、直观的 Web 界面和强大的自动化功能，满足各种 DNS 管理需求。
