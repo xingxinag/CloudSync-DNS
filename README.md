@@ -209,7 +209,7 @@ CloudSync DNS 使用智能比对算法，考虑以下因素：
 - **DEBUG**：是否启用调试模式，可选值：`true` 或 `false`（默认）。启用后会输出更详细的日志信息。
 
 - ## 效果预览
-- 555.xiaoxing.us.kg
+- https://555.xiaoxing.us.kg/
 
 ## 结论
 
