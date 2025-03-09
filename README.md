@@ -183,6 +183,8 @@ CloudSync DNS 使用智能比对算法，考虑以下因素：
 
 - **CLOUDNS_DOMAIN_NAME**：要同步的 ClouDNS 域名，例如 "example.com"。
 
+- ![1741507565602.png](https://img.picui.cn/free/2025/03/09/67cd4bf12a869.png)
+
 ### 同步配置
 
 - **SYNC_INTERVAL**：自动同步的时间间隔，以秒为单位。默认为 3600 秒（1 小时）。
